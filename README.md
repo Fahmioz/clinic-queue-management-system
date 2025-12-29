@@ -292,8 +292,8 @@ This project is created for educational purposes as part of a DSA course assignm
 
 **Important:** If using this as a reference:
 - Understand the code before presenting
-- Customize it to fit our specific requirements
-- Add our own unique features
+- Customize it to fit your specific requirements
+- Add your own unique features
 - Credit sources appropriately
 
 ---
