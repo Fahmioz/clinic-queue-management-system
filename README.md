@@ -248,8 +248,8 @@ The system tracks and displays:
 **[Add our group members' names here]**
 - Member 1: Muhammad Fahmi Azhar - [Coder]
 - Member 2: Nik Muhammad Al-Fateh bin Nik Mahadi - [Coder]
-- Member 3: [Name] - [Report]
-- Member 4: [Name] - [Tester]
+- Member 3: Areez Farhan Bin Reezuan Adne - [Report]
+- Member 4: Tengku Muhammad Ridhwan - [Tester]
 
 ---
 
