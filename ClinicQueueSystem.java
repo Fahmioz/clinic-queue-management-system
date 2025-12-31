@@ -327,7 +327,7 @@ public class ClinicQueueSystem {
         System.out.println("   • Efficient O(log n) insertion and deletion");
         System.out.println("   • Perfect for emergency/urgent case handling");
         System.out.println("   • Fair treatment within same priority (FIFO)");
-        System.out.println("\n👥 Group Members: \n Muhammad Fahmi Azhar \n");
+        System.out.println("\n👥 Group Members: \n Muhammad Fahmi Azhar \n Nik Muhammad Al-Fateh \n Areez Farhan \n Tengku Muhammad Ridhwan \n  ");
         System.out.println("\n📅 Date: December 28, 2025");
         System.out.println("🏫 Course: Data Structures and Algorithms");
     }
